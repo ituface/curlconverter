@@ -1,3 +1,6 @@
+
+将curl转换成各种语言的请求
+
 #  [![NPM version][npm-image]][npm-url][![Build Status](https://travis-ci.org/NickCarneiro/curlconverter.svg)](https://travis-ci.org/NickCarneiro/curlconverter)
 
 Convert cURL syntax to native Python, Go, PHP, JavaScript, R, Elixir and Dart HTTP code
